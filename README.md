@@ -2,7 +2,7 @@
 
 Apóyate en los siguientes recursos para realizar la práctica:
 
-[U4: 4. POO III](https://revilofe.github.io/section1/u04/practica/PROG-U4.-Practica004/)
+[U4: 4. POO III](https://revilofe.github.io/section1/u04/practica/PROG-U4.-Practica004/) y puedes ampliarlo con [U4: 5. POO IV](https://revilofe.github.io/section1/u04/practica/PROG-U4.-Practica005/)
 
 > ATENCIÓN: DURANTE LA DOCUMENTACIÓN DE LA PRÁCTICA, ELIMINA TODO AQUELLO QUE NO APLIQUE. PEEEEEEEROOOOOOO, ANTES DE ELIMINAR ALGO, PIENSA SI APLICA O NO.
 
